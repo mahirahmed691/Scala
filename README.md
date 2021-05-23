@@ -1,4 +1,4 @@
-# Scala [![Cult Of Martians][cult-img]][cult]
+# Scala 
 
-<img src="https://ai.github.io/size-limit/logo.svg" align="right"
+<img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
